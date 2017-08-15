@@ -491,6 +491,17 @@ button:focus,
     padding: .1em .6em .1em;
     }
 
+.award {
+    font-weight: 300;
+    padding: .3em .6em .3em;
+    }
+
+.award .fa {
+    margin-top: 0em;
+    margin-right: .5em;
+    font-size: 1.3em;
+    }
+
 /*-------------------
  * Contact
  *-------------------*/
